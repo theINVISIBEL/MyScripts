@@ -1,0 +1,30 @@
+# ملفات Python المترجمة
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# بيئة افتراضية
+env/
+venv/
+ENV/
+*.env
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات التوزيعة (Linux)
+*.log
+*.bak
+*.swp
+*~
+
+# مجلدات البرامج الشائعة
+.idea/
+.vscode/
+
+# ملفات التثبيت أو المؤقتة
+*.tar.gz
+*.zip
+*.egg-info/
